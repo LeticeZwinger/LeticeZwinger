@@ -8,7 +8,7 @@ I'm a bilingual full-stack web developer with a background in healthcare and now
 - Git & GitHub | Responsive Design | npm
 
 ## 🚀 Projects
-- [News Explorer]((https://github.com/LeticeZwinger/News-Explorer)) – A React-based app that fetches and displays real-time news articles  
+- [News Explorer]((https://github.com/LeticeZwinger/News-Explorer) – A React-based app that fetches and displays real-time news articles  
 - [WTWR (What to Wear)](https://github.com/LeticeZwinger/se_project_react) – Full-stack app for weather-based outfit planning  
 
 ## 🐱 Fun Facts
