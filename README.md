@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋 I'm Letice
 
-<!--
-**LeticeZwinger/LeticeZwinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bilingual full-stack web developer with a background in healthcare and now I build clean, responsive, and user-focused applications.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- JavaScript | HTML | CSS
+- React | Node.js | MongoDB | RESTful APIs
+- Git & GitHub | Responsive Design | npm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [News Explorer]((https://github.com/LeticeZwinger/News-Explorer)) – A React-based app that fetches and displays real-time news articles  
+- [WTWR (What to Wear)](https://github.com/LeticeZwinger/se_project_react) – Full-stack app for weather-based outfit planning  
+
+## 🐱 Fun Facts
+- Cat mom to Kiki & Jiji  
+- Fluent in English and Portuguese  
+- Former pharmacy tech turned coder 💪  
+
+📫 Let’s connect!  
+| [LinkedIn](https://www.linkedin.com/in/letice-zwinger/) | [GitHub](https://github.com/LeticeZwinger)
